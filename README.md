@@ -31,7 +31,7 @@ One app. Many modes. Same AI brain.
 
 ## Demo
 
-(Video URL inserted after drag-drop upload.)
+<video src="https://github.com/Danish-spidy/aura-showcase/raw/main/demo/AURA_demo.mp4" controls width="100%"></video>
 
 ![AURA hero](docs/hero.png)
 
